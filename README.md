@@ -36,11 +36,11 @@ NewsBot is an intelligent chatbot designed to process news articles from user-pr
 ### Steps
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/rockybot.git
+    git clone https://github.com/Code-by-Mohsan/News-Research-Tool.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd rockybot
+    cd News-Research-Tool
     ```
 3. Install the required dependencies:
     ```bash
@@ -126,11 +126,7 @@ Contributions are welcome! Please fork the repository and create a pull request 
 
 ---
 
-## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
-
----
 
 ## Acknowledgments
 
@@ -141,11 +137,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ---
 
-## Screenshots
 
-![RockyBot Interface](rockybot.jpg)
-*Example of RockyBot fetching and answering queries based on news articles.*
-
----
 
 Happy Researching! 🚀
